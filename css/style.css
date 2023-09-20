@@ -1,0 +1,179 @@
+/* header */
+
+.header{
+
+    display: flex;
+    padding: 24px 370px;
+    background: #F6F5F4;
+    font-family: Dela Gothic One;
+}
+
+.header__block{
+    display: flex;
+    margin-right: 470px;
+}
+
+.header__text{
+    margin-right: 30px;
+    text-decoration: none;
+    color: #757575;
+}
+
+.b{
+    color: #000;
+}
+
+.header__acc{
+    display: flex;
+    text-decoration: none;
+    width: 100px;
+}
+
+.header__signin{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: #000;
+    
+}
+
+.header__logo{
+    margin-right: 60px;
+    display: flex;
+}
+
+/* Main */
+
+.main{
+    padding: 0 370px;
+    display: flex;
+    background: #F6F5F4;
+    font-family: Dela Gothic One;
+}
+
+.main__block{
+    padding: 150px 0;
+    width: 500px;
+}
+
+.main__pic{
+    padding: 110px 0;
+    margin-left: 250px;
+}
+
+.main__pretitle{
+    color: #2B788B;
+}
+
+.main__title{
+    font-size: 56px;
+    width: 450px;
+}
+
+.main__text{
+    color: #757575;
+    margin-bottom: 32px;
+}
+
+.main__button{
+    text-decoration: none;
+    color: #2B788B;
+    border-radius: 100px;
+    background-color: #C3DCE3;
+    padding: 14px 22px;
+}
+
+/* Progress */
+
+.progress{
+    padding: 95px 370px;
+    display: flex;
+    font-family: Dela Gothic One;
+}
+
+.progress_block{
+    margin-left: 20px;
+}
+
+.progress__title{
+    font-size: 48px;
+}
+
+.progress__text{
+    color: #757575;
+    margin-bottom: 34px;
+}
+
+.progress__button{
+    text-decoration: none;
+    color: #2B788B;
+    border-radius: 100px;
+    background-color: #C3DCE3;
+    padding: 14px 22px;
+}
+
+/* Footer */
+
+.footer{
+    background: #F6F5F4;
+    display: flex;
+    color: #757575;
+    font-family: Dela Gothic One;
+}
+
+.footer__globaltalk{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 104px;
+    margin-right: 700px;
+}
+
+.footer__texts{
+    display: flex;
+    align-items: center;
+
+}
+
+.footer__text{
+    margin-right: 30px;
+}
+
+
+
+/* Login */
+
+.login{
+    display: flex;
+    flex-direction: column;
+    font-family: Montserrat;
+    padding: 38px 46px;
+}
+
+.login__title{
+    color: #2B788B;
+    margin-bottom: 46px;
+}
+
+.login__write{
+    text-decoration: none;
+    border-radius: 100px;
+    background: #C3DCE3;
+    padding: 20px 40px;
+    width: 200px;
+    font-family: Montserrat;
+    font-size: 16px;
+    margin-bottom: 35px;
+}
+
+
+.login__button{
+    text-decoration: none;
+    color: #fff;
+    border-radius: 100px;
+    background-color: #2B788B;
+    padding: 14px 22px;
+    width: 127px;
+}
